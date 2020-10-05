@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1066119920295",
+    "firebase_url": "https://my-app-54600.firebaseio.com",
+    "project_id": "my-app-54600",
+    "storage_bucket": "my-app-54600.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066119920295:android:ff8ba32053caa7e58ab982",
+        "android_client_info": {
+          "package_name": "shlomo.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066119920295-e8i8b6svr3bb2osi2qdi6v3kcamts90v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2r72ti5y37ndHBTV-d5IJEJxdzqQVR40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066119920295-e8i8b6svr3bb2osi2qdi6v3kcamts90v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

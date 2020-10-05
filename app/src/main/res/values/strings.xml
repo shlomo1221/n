@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">לא לשכוח לנשום</string>
+    <string name="about">
+        הסיבה שנשימה כל כך חשובה היא פשוטה למדי, אפשר לצום כמה ימים אבל אי אפשר להפסיק לנשום.
+הפעולה של הנשימה היא אוטומטית כמובן אחרת לא היינו יכולים להפסיק לחשוב עליה, עצם המחשבה מפחידה… אז למה באמת תרצו להיות מודעים לנשימה?
+נשימה לא נכונה ולא מודעת (בטווח הארוך) תגרום לנזק לגוף ולמוח שבעיקר מתבטא בחולשה בשרירים, עייפות כרונית, מתחים, חוסר ריכוז, דיכאון, קשיי נשימה, מערכת חיסונית ירודה ועוד.
+לעומת זאת מודעות לנשימה יכולה לעזור ולפתח לנו את היכולות להירגע, להשתחרר, ליהנות מהרגע והכי חשוב לנוח בימים עמוסים.
+כל אלו יובילו אתכם לאיכות חיים בריאה בגוף ובנפש.
+
+נשימה שטחית
+רוב הזמן אנו נושמים נשימה שטחית שהיא בסך הכל שליש מיכולת הקיבולת חמצן של הריאות.
+זאת אומרת אנו מכניסים כמות חמצן נמוכה מאוד שגורמת לתסמינים הנ"ל ונוצר מצב שרבים מהאנשים שחיים בעידן המודרני סובלים מחוסר חמצן כרוני מבלי לדעת את זה.
+משום מה חשוב לנו לאכול ולשתות כדי שלא נתחיל להרגיש רעבים, חלשים, חולים וכדומה אבל קשה לנו להבין שחמצן הוא הרבה יותר חשוב והכרחי.
+נשימה מודעת
+פעולה שעד היום עשינו אותה באופן לא מודע יכולה בקלות רבה ובהשקעה מינימלית להפוך לפעולה מודעת ויעילה יותר. המטרה היא לא להחליף את כל הנשימות שלנו לנשימות מלאות אלא להקנות מספר דקות ביום לנשימה מלאה ומודעת כדי למנוע חוסר חמצן.
+בעצם כמו שאתם מפנים זמן לאוכל או שתייה הגיע הזמן שתפנו זמן גם לנשימה.
+
+בנשימה מודעת אנו מנצלים את כל נפח הריאות וכך נוכל לקבל את כמות החמצן הנדרשת להמשך היום.
+בנוסף נשימה מודעת תעזור לכם לנקות פסולת ורעלים החוצה לדוגמה פחמן דו חמצני.
+    </string>
+
+
+    <string name="no_cardetails">Click on the button below to begin creating your reminder!</string>
+    <string name="title_activity_add_reminder">Add Reminder</string>
+    <string name="title_activity_edit_reminder">Edit Reminder</string>
+    <string name="title_activity_licenses">Licenses</string>
+
+    <string name="add_reminder">Reminder</string>
+    <string name="details">Details</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="repeat">Repeat</string>
+    <string name="repeat_off">Off</string>
+    <string name="repeat_no">Repetition Interval </string>
+    <string name="repeat_type">Type of Repetitions</string>
+
+    <string name="action_discard_reminder">Discard Reminder</string>
+    <string name="action_save_reminder">Save Reminder</string>
+
+    <string name="editor_activity_title_new_reminder">Add Reminder Details</string>
+    <string name="editor_activity_title_edit_reminder">Edit Reminder</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+
+    <string name="keep_editing">Keep Editing</string>
+    <string name="delete_dialog_msg">Delete this Reminder?</string>
+
+    <string name="delete">Delete</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="editor_delete_reminder_successful">Reminder deleted</string>
+
+    <string name="editor_delete_reminder_failed">Error with deleting reminder</string>
+
+    <string name="editor_insert_reminder_successful">Reminder saved</string>
+
+    <string name="editor_insert_reminder_failed">Error with saving reminder</string>
+
+    <string name="editor_update_reminder_successful">Reminder updated</string>
+
+    <string name="editor_update_reminder_failed">Error with updating reminder</string>
+
+    <string name="reminder_title">AlarmReminder</string>
+
+
+
+
+</resources>
+
